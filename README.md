@@ -1,7 +1,6 @@
 # Hi, I'm Steven Moody
 
-Aspiring **SOC Analyst** and **Cloud Security Analyst** transitioning from the U.S. Army into cybersecurity.  
-I focus on AWS security, SIEM/EDR investigations, cloud operations, and building a strong foundation in practical incident analysis.
+Aspiring **SOC Analyst** and **Cloud Security Analyst** transitioning from the U.S. Army into cybersecurity. I focus on AWS security, SIEM/EDR investigations, cloud operations, and building a strong foundation in practical incident analysis.
 
 My work centers around **structured reasoning**, clear documentation, and hands-on application — not just theory.
 

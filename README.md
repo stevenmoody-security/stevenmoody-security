@@ -21,7 +21,7 @@ with the design decisions and security rationale behind every choice.
 
 - **vulnerability-assessment** — A professional security findings report from lab-based vulnerability scanning: findings, CVSS-aligned severity ratings, and prioritized remediation recommendations. (Coming August 2026)
 
-- **cloudtrail-threat-detection** — Walkthrough of realistic API log scenarios where CloudTrail surfaces suspicious behavior, with detection rationale and recommended response actions. (Coming August 2026)
+- **[cloudtrail-threat-detection](https://github.com/stevenmoody-security/cloudtrail-threat-detection)** — CloudTrail log analysis scenarios demonstrating threat detection and RMF continuous monitoring concepts for DoD cloud environments, with MITRE ATT&CK mapping and POA&M documentation guidance.
 
 ---
 

@@ -19,7 +19,7 @@ with the design decisions and security rationale behind every choice.
 
 - **vpc-security-architecture** — A multi-tier VPC deployed as CloudFormation, with documented subnet isolation decisions, route table rationale, and security group intent for each tier. (Coming July 2026)
 
-- **vulnerability-assessment** — A professional security findings report from lab-based vulnerability scanning: findings, CVSS-aligned severity ratings, and prioritized remediation recommendations. (Coming August 2026)
+- **[vulnerability-assessment](https://github.com/stevenmoody-security/vulnerability-assessment)** — Professional vulnerability assessment report with four findings, CVSS severity ratings, and prioritized remediation recommendations framed around DoD RMF POA&M requirements.
 
 - **[cloudtrail-threat-detection](https://github.com/stevenmoody-security/cloudtrail-threat-detection)** — CloudTrail log analysis scenarios demonstrating threat detection and RMF continuous monitoring concepts for DoD cloud environments, with MITRE ATT&CK mapping and POA&M documentation guidance.
 

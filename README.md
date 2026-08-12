@@ -17,7 +17,7 @@ with the design decisions and security rationale behind every choice.
 
 - **[iam-least-privilege](https://github.com/stevenmoody-security/iam-least-privilege)** - IAM policy sets for four enterprise roles (read-only auditor, scoped developer, cross-account access, EC2 instance role), each with a documented threat model and an authentication decision matrix connecting IAM, API keys, and JWT OAuth to AI agent identity patterns.
 
-- **[sec307-agentic-ai-security](https://github.com/stevenmoody-security/sec307-agentic-ai-security)** - Security analysis of the AWS agentic AI architecture from the SEC307 Summit workshop: per-agent identity, runtime authorization, cross-trust-domain authentication, and audit logging separation.
+- **[agentic-ai-security](https://github.com/stevenmoody-security/agentic-ai-security)** - Security analysis of an AWS-native agentic AI architecture: per-agent identity, runtime authorization, cross-trust-domain authentication, and audit logging separation.
 
 - **vpc-security-architecture** - A multi-tier VPC deployed as CloudFormation, with documented subnet isolation decisions, route table rationale, and security group intent for each tier. (In progress)
 
@@ -47,3 +47,5 @@ AWS Certified Solutions Architect - Professional (SAP-C02) | Target: October 202
 ### Connect
 
 [LinkedIn](https://linkedin.com/in/steven-c-moody) | steven.c.moody@gmail.com
+
+

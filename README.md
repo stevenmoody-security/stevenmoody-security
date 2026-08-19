@@ -19,7 +19,7 @@ with the design decisions and security rationale behind every choice.
 
 - **[agentic-ai-security](https://github.com/stevenmoody-security/agentic-ai-security)** - Security analysis of an AWS-native agentic AI architecture: per-agent identity, runtime authorization, cross-trust-domain authentication, and audit logging separation.
 
-- **vpc-security-architecture** - A multi-tier VPC deployed as CloudFormation, with documented subnet isolation decisions, route table rationale, and security group intent for each tier. (In progress)
+- **[vpc-security-architecture](https://github.com/stevenmoody-security/vpc-security-architecture)** - Multi-tier VPC architecture with documented subnet isolation decisions, security group chaining, NACL design, and connectivity rationale for each tier.
 
 - **[vulnerability-assessment](https://github.com/stevenmoody-security/vulnerability-assessment)** - Professional vulnerability assessment report with four findings, CVSS severity ratings, and prioritized remediation recommendations framed around DoD RMF POA&M requirements.
 
@@ -47,5 +47,6 @@ AWS Certified Solutions Architect - Professional (SAP-C02) | Target: October 202
 ### Connect
 
 [LinkedIn](https://linkedin.com/in/steven-c-moody) | steven.c.moody@gmail.com
+
 
 
